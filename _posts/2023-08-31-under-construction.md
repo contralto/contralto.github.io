@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Under construction!
+title: Under construction
 subtitle: 
 ---
 
